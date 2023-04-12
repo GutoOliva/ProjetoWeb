@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ol26zRx+9n4jmqiA/rLmwafhzsqBEwAeApVU21wvoeUHxFewQb1vwt/gd3MqUu7xB2NF980KusxrMh+1W+njfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\augus\\source\\repos\\SalesWebApp\\SalesWebApp\\SalesWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\augus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\augus\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\augus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\augus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
